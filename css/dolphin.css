@@ -15,8 +15,14 @@ html {
 #dolphin {
   position: absolute;
   top: 400px;
-  right: 0;
+  right: 0; 
+  animate:all,0.2s,ease;
 }
 
 /* Write your solution here */
-
+@media only screen and (max-width:1090px) and (min-width:642px){
+  #dolphin {
+    transform: rotate(0.75turn);
+    top:100px;
+  }
+}
