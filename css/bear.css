@@ -16,9 +16,9 @@ html {
     top: 100px;
     right: 0;
     left:800px;
-    width: 90%;
   }
 }
+/*}
 @media only screen and (max-width:900px){
   #bear {
     position: absolute;
@@ -34,7 +34,7 @@ html {
     right: 0;
     left:100px
   }
-}
+}*/
 
 /*#social {
   position: absolute;
